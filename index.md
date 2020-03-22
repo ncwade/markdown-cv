@@ -12,56 +12,17 @@ title: Nick Wade's CV
 My goal at any company is finding technical solutions to business problems. I have an affinity for CICD, automation, and general SRE work. I love learning new technologies, meeting new people, and finding out why I’m wrong. I’ve got experience working with everything from embedded Linux systems to Kubernetes clusters.
 
 ## Skills
+__Programming Languages__ -
+C# (2 years), C++ (3 1/2 years), Python (1 1/2 years), Java (1 year), Ada (2 years), and Bash (2 years)
 
-<table border="0">
- <tr>
-    <td style="text-align:center"><b style="font-size:1.1em"> Programming Languages</b></td>
-    <td style="text-align:center"><b style="font-size:1.1em">Infrastructure</b></td>
-    <td style="text-align:center"><b style="font-size:1.1em"> CICD/Testing</b></td>
- </tr>
- <tr>
-   <td style="text-align:center">
-         <div>C# (2 years)</div>
-         <div>C++ (3 1/2 years)</div>
-         <div>Python (1 1/2 years)</div>
-         <div>Java (1 year)</div>
-         <div>Ada (2 years)</div>
-         <div>Bash (2 years)</div>
-   </td>
-   <td style="text-align:center">
-      <div>Baremetal</div>
-      <div>AWS</div>
-      <div>GCP</div>
-      <div>Kubernetes (EKS/RKE)</div>
-      <div>Prometheus</div>
-      <div>Grafana</div>
-      <div>Saltstach</div>
-      <div>Ansible</div>
-    </td>
-   <td style="text-align:center">
-      <div>NUnit</div>
-      <div>MSTest</div>
-      <div>GTest</div>
-      <div>Vegeta</div>
-      <div>Locust</div>
-      <div>Jenkins</div>
-      <div>Sonar C#</div>
-      <div>Coverity</div>
-    </td>
- </tr>
- <tr>
-    <td style="text-align:center"><b style="font-size:1.1em"> Other Tools</b></td>
- </tr>
- <tr>
-   <td style="text-align:center">
-      <div>Atlassian Confluence/Jira </div>
-      <div>Rational Doors</div>
-      <div>Various Microsoft Office Products</div>
-      <div>Visual Studio/Eclipse/Jetbrains IDEs</div>
-    </td>
- </tr>
-</table>
+__Infrastructure__ -
+Baremetal, AWS, GCP, Kubernetes (EKS/RKE), Prometheus, Grafana, Saltstack, and Ansible
 
+__CICD/Testing__ -
+NUnit, MSTest, GTest, Vegeta, Locust, Jenkins, Sonar C#, Coverity
+
+__Other Tools__ -
+Atlassian Confluence/Jira, Rational Doors, Various Microsoft Office Products, and Visual Studio/Eclipse/Jetbrains IDEs
 ## Currently
 
 I am a Software Development Engineer at GoDaddy, working on internal tools and operations. I help maintain/improve a variety of tools and APIs, everything from customer support tools to automated refund software. Our tools are built upon a C#/React/NodeJS software stack, CICD done with Jenkins, deployed on-top of a on-premise Kubernetes cluster.
