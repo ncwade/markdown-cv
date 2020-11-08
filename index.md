@@ -25,7 +25,7 @@ __Other Tools__ -
 Atlassian Confluence/Jira, Rational Doors, Various Microsoft Office Products, and Visual Studio/Eclipse/Jetbrains IDEs
 ## Currently
 
-I am a Software Development Engineer at GoDaddy, working on internal tools and operations. I help maintain/improve a variety of tools and APIs, everything from customer support tools to automated refund software. Our tools are built upon a C#/React/NodeJS software stack, CICD done with Jenkins, deployed on-top of a on-premise Kubernetes cluster.
+I am a Staff Software Engineer working on Mission Systems programs @ Collins Aerospace. I provide support to both software and systems teams, helping with everything from product integration and configuration control to internal tool development.
 
 
 ## Education
@@ -36,7 +36,12 @@ __Bachelor’s Degree, Computer Science, Mount Mercy University__
 
 ## Jobs
 
-`03.2020 - Current`
+`05.2020 - Current`
+__Staff Software Engineer__, Collins Aerospace
+
+Assisted with creation/support of development and verification tools for Mission Systems programs. Contributed to CICD environment to allow for more rapid integration cycles in lab. Assisted with integration of product at a system level.
+
+`03.2020 - 05.2020`
 __Software Development Engineer IV__, GoDaddy
 
 Lead software design/architecture phases for new projects being developed within the team. Included software/infrastructure prototype work, wireframes/mockups, cross-team integration/communication, and requirement gathering efforts. Lead the push for team wide design reviews early on in the software development cycle.
